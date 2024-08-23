@@ -18,12 +18,11 @@ This repository is dedicated to providing high-quality notes for VTU students. W
 
 The following subjects are covered in this repository:
 
-1. **Subject 1**
-2. **Subject 2**
-4. **Professional Elective 2**
-5. **Professional Elective 3**
-   
-6. **Open Elective 2**
+1. **Big Data Analytics 21CS71**
+2. **Cloud Computing 21CS72**
+3. **Professional Elective 2**
+4. **Professional Elective 3**  
+5. **Open Elective 2**
    
 
 Each subject has its own directory containing organized notes and study materials.
