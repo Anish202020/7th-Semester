@@ -1,6 +1,6 @@
-# VTU Notes - 6th Semester
+# VTU Notes - 7th Semester
 <img src="https://upload.wikimedia.org/wikipedia/en/a/a0/Visvesvaraya_Technological_University_logo.png" width="150" height="150" alt="accessibility text">
-Welcome to the VTU Notes repository for the 6th semester! This repository contains comprehensive notes for various subjects offered in the 6th semester of Visvesvaraya Technological University (VTU). These notes are designed to help students understand key concepts, prepare for exams, and succeed in their studies.
+Welcome to the VTU Notes repository for the 7th semester! This repository contains comprehensive notes for various subjects offered in the 6th semester of Visvesvaraya Technological University (VTU). These notes are designed to help students understand key concepts, prepare for exams, and succeed in their studies.
 
 ## Table of Contents
 
@@ -18,14 +18,13 @@ This repository is dedicated to providing high-quality notes for VTU students. W
 
 The following subjects are covered in this repository:
 
-1. **Software Engineering & Project Management**
-2. **Fullstack Development**
-3. **Computer Graphics and Fundamentals of Image Processing**
-4. **Computer Graphics and Image Processing Laboratory**
-5. **Elective 1**
-   Renewable Energy Resources
-6. **Elective 2**
-   Advanced JAVA Programming
+1. **Subject 1**
+2. **Subject 2**
+4. **Professional Elective 2**
+5. **Professional Elective 3**
+   
+6. **Open Elective 2**
+   
 
 Each subject has its own directory containing organized notes and study materials.
 
@@ -33,7 +32,7 @@ Each subject has its own directory containing organized notes and study material
 
 To use the notes:
 
-1. Clone the repository to your local machine using `https://github.com/Anish202020/6th-Semester`.
+1. Clone the repository to your local machine using `https://github.com/Anish202020/7th-Semester`.
 2. Navigate to the directory of the subject you're interested in.
 3. Open the relevant notes files (PDF, DOCX, MD) to study.
 
