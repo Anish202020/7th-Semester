@@ -22,7 +22,7 @@ The following subjects are covered in this repository:
 2. **Cloud Computing 21CS72**
 3. **Professional Elective 2**
 4. **Professional Elective 3**  
-5. **Open Elective 2**
+5. **Environmental Protection and Management 21CV753 Open Elective 2**
    
 
 Each subject has its own directory containing organized notes and study materials.
