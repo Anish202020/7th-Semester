@@ -20,7 +20,7 @@ The following subjects are covered in this repository:
 
 1. **Big Data Analytics 21CS71**
 2. **Cloud Computing 21CS72**
-3. **Professional Elective 2**
+3. **Digital Image Processing 21CS732 Professional Elective 2**
 4. **NoSQL Database 21CS745 Professional Elective 3**  
 5. **Environmental Protection and Management 21CV753 Open Elective 2**
    
