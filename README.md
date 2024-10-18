@@ -5,7 +5,7 @@
 
 
 
-Welcome to the VTU Notes repository for the 7th semester! This repository contains comprehensive notes for various subjects offered in the 6th semester of Visvesvaraya Technological University (VTU). These notes are designed to help students understand key concepts, prepare for exams, and succeed in their studies.
+Welcome to the VTU Notes repository for the 7th semester! This repository contains comprehensive notes for various subjects offered in the 7th semester of Visvesvaraya Technological University (VTU). These notes are designed to help students understand key concepts, prepare for exams, and succeed in their studies.
 
 ## Table of Contents
 
