@@ -1,5 +1,10 @@
 # VTU Notes - 7th Semester
-<img src="https://upload.wikimedia.org/wikipedia/en/a/a0/Visvesvaraya_Technological_University_logo.png" width="150" height="150" alt="accessibility text">
+
+![vtu 7th semester](https://github.com/Anish202020/Web-Development-Data/blob/main/Videos/7TH%20Semester.gif)
+
+
+
+
 Welcome to the VTU Notes repository for the 7th semester! This repository contains comprehensive notes for various subjects offered in the 6th semester of Visvesvaraya Technological University (VTU). These notes are designed to help students understand key concepts, prepare for exams, and succeed in their studies.
 
 ## Table of Contents
@@ -11,6 +16,8 @@ Welcome to the VTU Notes repository for the 7th semester! This repository contai
 5. [License](#license)
 
 ## Introduction
+
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a0/Visvesvaraya_Technological_University_logo.png" width="150" height="150" alt="accessibility text">
 
 This repository is dedicated to providing high-quality notes for VTU students. Whether you're looking for detailed explanations, important formulas, or quick revision notes, you'll find them here. Our goal is to make studying easier and more efficient for VTU students.
 
