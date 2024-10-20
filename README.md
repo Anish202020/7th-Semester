@@ -1,6 +1,6 @@
 # VTU Notes - 7th Semester
 
-![vtu 7th semester](https://github.com/Anish202020/Web-Development-Data/blob/main/Videos/7TH%20Semester.gif)
+![vtu 7th semester](https://github.com/Anish202020/Web-Development-Data/blob/main/GIFs/7TH%20Semester.gif)
 
 
 
