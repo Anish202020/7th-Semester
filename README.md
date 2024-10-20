@@ -2,6 +2,9 @@
 
 ![vtu 7th semester](https://github.com/Anish202020/Web-Development-Data/blob/main/GIFs/7TH%20Semester.gif)
 
+![7th Semester](https://img.shields.io/badge/7th%20Semester-000000?style=for-the-badge&logoColor=white)
+![VTU Notes](https://img.shields.io/badge/VTU%20Notes-000000?style=for-the-badge&logoColor=white)
+
 
 
 
