@@ -1,0 +1,4 @@
+Diagram with Explanation
+
+Sqoop Import 
+Sqoop Export
